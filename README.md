@@ -12,10 +12,10 @@ Best to open the notebook in Google Colab:
 </a>
 
 ### Tools  
-This project used **Python** and the following Python libraries installed:
-- [NumPy](http://www.numpy.org/)
+This project used **Python** and the following Python libraries installed: 
 - [Pandas](http://pandas.pydata.org/)
 - [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
-- [SciPy](https://scipy.org/install/)
-- [XGBoost](https://xgboost.readthedocs.io/en/stable/install.html#installation-guide)
+- [PyTorch](https://pytorch.org/docs/stable/index.html)
+- [torchvision](https://download.pytorch.org/whl/torchvision/)
+- [timm](https://pypi.org/project/timm/0.3.2/)
+- [ImageNet](https://www.image-net.org/download.php)
