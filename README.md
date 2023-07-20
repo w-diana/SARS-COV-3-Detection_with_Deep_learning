@@ -7,7 +7,7 @@ Having heard of your newly developed expertise in deep learning, you have been t
 
 ### Run notebook
 Best to open the notebook in Google Colab:
-<a target="_blank" href="https://github.com/w-diana/SARS-COV-3-Detection_with_Deep_learning/blob/main/PNEUMONIA%20%26%20SARS-COV-3%20DETECTION%20WITH%20DEEP%20LEARNIN.ipynb?short_path=a8d8d7b">
+<a target="_blank" href="https://colab.research.google.com/github/w-diana/SARS-COV-3-Detection_with_Deep_learning/blob/main/PNEUMONIA%20%26%20SARS-COV-3%20DETECTION%20WITH%20DEEP%20LEARNIN.ipynb?short_path=a8d8d7b">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
